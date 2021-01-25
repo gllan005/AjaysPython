@@ -1,4 +1,6 @@
 x = 100
 y = 200
-print(x+y)
+sum = x+y
 
+z = 10
+print(sum + z)
